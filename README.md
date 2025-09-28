@@ -7,7 +7,7 @@ We compare **BM3D**, **Total Variation (Chambolle)**, **FFDNet**, and **DRUNet**
 
 ## Project Overview
 - **Goal**: Compare classical vs. deep learning denoising methods using a unified metric of efficiency (ops/pixel).
-- **Dataset**: [CBSD68](https://github.com/clausmichele/CBSD68) (68 color natural images).
+- **Dataset**: [CBSD68]([https://github.com/clausmichele/CBSD68](https://github.com/clausmichele/CBSD68-dataset/archive/refs/heads/master.zip)) (68 color natural images).
 - **Noise model**: Gaussian, σ ∈ {5, 10, 25}.
 - **Metrics**:
   - Peak Signal-to-Noise Ratio (PSNR)
